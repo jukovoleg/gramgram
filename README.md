@@ -1,2 +1,2 @@
 # gramgram
-Lets build Instagaram
+Lets build Instagram
